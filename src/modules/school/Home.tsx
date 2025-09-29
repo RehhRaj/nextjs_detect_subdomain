@@ -15,7 +15,7 @@ export default function SchoolHome() {
       </h2>
 
       <p className="mt-2 text-gray-700">
-        This is the <code>modules/school/Home.tsx</code> component, rendered inside:
+        This is the  component, rendered inside:
       </p>
 
       <pre className="mt-4 bg-gray-100 p-3 rounded-md text-sm">

@@ -80,7 +80,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <Navigation />
         </header>
         <h1>// app/layout.tsx</h1>
-        <h1>"                             "</h1>
         <h1>Welcome to the Main Site   --- file :- src/app/page.tsx</h1>
         <main>{children}</main>
         <footer>
