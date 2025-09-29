@@ -3,7 +3,7 @@
 import Client_UTR_Inputime from './ClientUTR';
 
 export default function InputimePage() {
-  console.log('[Server] InputimePage rendered');
+
 
   return (
     <div>
